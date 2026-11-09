@@ -1,6 +1,0 @@
-{
-  "name": "PK Workspace & Finance Manager",
-  "description": "Comprehensive academic, life, finance, and design studio management hub for Muhammed Anas P K with an APINSY neo-fintech aesthetic and server-side Gemini AI assistant.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
